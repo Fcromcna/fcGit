@@ -1,2 +1,2 @@
 # fcGit
-第一次新建仓库
+The first time using github
